@@ -14,15 +14,15 @@
 <p>To get started with Band-Generator, follow these steps:</p>
 <ol>
     <li>Clone the repository:</li> 
-    <pre><code>git clone https://github.com/yourusername/Band-Generator.git</code></pre>
+    <pre><code>git clone https://github.com/GajananJoshi0601/GJ-s-Portfolio.git</code></pre>
     <li>Open and Extract It</li>
     <li>Create a Directory or Folder</li>
     <li>Now index.js File creation</li>
     <li>Initialize NPM : </li>
     <pre><code>npm init -y</code></pre>
     <li>Install the Required Packages : </li>
-    <pre><code>npm i express ejs body-parser</code></pre>
-    <pre><code>npm install express ejs body-parser</code></pre>
+    <pre><code>npm i express ejs </code></pre>
+    <pre><code>npm install express ejs </code></pre>
     <li>Final Step Install nodemon : </li>
     <pre><code>nodemon index.js</code></pre>
     
@@ -39,12 +39,13 @@
 <p align="center">
     <img src="./SS/ss-2.jpg" alt="Generated Name" width="400">
     <br>
-    <em>Generated Names</em>
+    <em>About me Page</em>
 </p>
 
 <p align="center">
     <img src="./SS/ss-3.jpg" alt="Generated Name" width="400">
     <br>
+    <em>Contact me Page</em>
 </p>
 
 <h2 id="usage">Usage</h2>
